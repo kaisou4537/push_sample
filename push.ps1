@@ -1,0 +1,1 @@
+Invoke-RestMethod -Method POST -Uri https://updates.push.services.mozilla.com/push/v1/gAAAAABW7-uXTEJZNiwEwvps4rhhtvE6KZlmqtWMagvmUvegq8ubyRVwoQBKFrNj2KE8UL2N1pWFKkm3oCKRVJo1jKpbLt5FACCutzgR9iVZ1ssdxo8n70HL8mJqx2802Wxc_Ff6tvhn
